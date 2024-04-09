@@ -1,1 +1,2 @@
-# Tastify-Restaurant_Table_Booking_System
+# Tastify-Restaurant
+Tastify - Restaurant website with table booking system
